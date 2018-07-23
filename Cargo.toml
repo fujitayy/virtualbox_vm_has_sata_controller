@@ -1,0 +1,8 @@
+[package]
+name = "virtualbox_vm_has_sata_controller"
+version = "0.1.0"
+authors = ["Yuichi Fujita <fujita.y@edocode.co.jp>"]
+
+[dependencies]
+failure = "0.1.1"
+regex = "0.2"
